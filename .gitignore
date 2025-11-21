@@ -1,0 +1,15 @@
+# Local .terraform directories
+.terraform/
+.terraform.tfstate
+.terraform.tfstate.*
+
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+
+
+# Plan files
+*.plan
+
+# Provider plugins
+.terraform.lock.hcl
